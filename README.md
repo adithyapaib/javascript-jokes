@@ -165,6 +165,10 @@ Question : Whats the difference between Git and Github
 
 Answer : The same as Porn and Pornhub .
 
+---
+
+I named a class after my girlfriend, She left me because she felt I was treating like and object.
+
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />is :heart:
 
 [website]: https://www.instagram.com/coding_valley_/
